@@ -1,0 +1,19 @@
+body{
+    background-color: dodgerblue;
+     font: normal 25pt arial;
+}
+
+header{
+    color: rgb(255, 253, 253);
+    text-align: center;
+}
+
+main{
+    background-color: aliceblue;
+    width: 900px;
+    border-radius: 50px;
+    margin: auto;
+    color: black;
+    text-align: center;
+    padding-bottom: 25pt;
+}
