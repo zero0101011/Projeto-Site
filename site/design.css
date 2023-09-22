@@ -1,6 +1,6 @@
 body{
     background-color: dodgerblue;
-     font: normal 25pt arial;
+    font: normal 25pt arial;
 }
 
 header{
@@ -10,10 +10,11 @@ header{
 
 main{
     background-color: aliceblue;
-    width: 900px;
+    width: 120px;
     border-radius: 50px;
     margin: auto;
     color: black;
     text-align: center;
     padding-bottom: 25pt;
+    box-shadow: 20px 20px;
 }
