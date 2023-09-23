@@ -6,6 +6,7 @@ body{
 header{
     color: rgb(255, 253, 253);
     text-align: center;
+    padding-left: 10px;
 }
 
 main{
@@ -17,4 +18,13 @@ main{
     text-align: center;
     padding-bottom: 25pt;
     box-shadow: 20px 20px;
+}
+
+img#lado{
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding-right: 10px;
+    margin-right: 1250px;
+    margin-to;
+    
 }
